@@ -1,6 +1,6 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : anonymous
-- 리뷰어 : beomyongchoi
+- 코더 : beomyongchoi
+- 리뷰어 : wjjoo
 
 
 # PRT(Peer Review Template)
