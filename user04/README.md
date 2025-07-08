@@ -1,6 +1,8 @@
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 코더의 이름을 작성하세요.
 - 리뷰어 : 리뷰어의 이름을 작성하세요.
+  
+![터미널](https://github.com/user-attachments/assets/5383aec3-b34e-487b-83f0-7ca0c23b9f2a)
 
 
 # PRT(Peer Review Template)
