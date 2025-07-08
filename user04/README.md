@@ -1,7 +1,7 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 코더의 이름을 작성하세요.
-- 리뷰어 : 리뷰어의 이름을 작성하세요.
-
+- 코더 : 
+- 리뷰어 : JSKIM5098
+![Image](https://github.com/user-attachments/assets/a6f47007-f509-4cd8-a55b-26456e5d8533)
 
 # PRT(Peer Review Template)
 - [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
