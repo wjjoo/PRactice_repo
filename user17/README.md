@@ -8,7 +8,8 @@
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
         <img width="1089" height="164" alt="image" src="https://github.com/user-attachments/assets/d093d01c-da10-4058-a283-d9f31c3834b2" />
-        <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e125da6a-65cc-4e38-aeb6-1d1f01919af7" />
+        <img width="847" height="93" alt="image" src="https://github.com/user-attachments/assets/c39d383a-fd0b-41d8-9dab-2502224101b4" />
+        
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
     - 해당 코드 블럭을 왜 핵심적이라고 생각하는지 확인
