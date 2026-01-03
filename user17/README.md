@@ -1,4 +1,4 @@
-# AIFFEL Campus Online Code Peer Review Templete
+# AIFFEL Campus Online Code Peer Review Template
 - 코더 : 이창훈
 - 리뷰어 : 조웅제 퍼실님
 
